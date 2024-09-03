@@ -1,0 +1,7 @@
+{
+  "name": "DeepHack-AwareTeam AI Agent UI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

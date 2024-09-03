@@ -1,0 +1,60 @@
+.summary-container {
+    margin-top: 3vh;
+    height: 65vh;
+    border-radius: 15px;
+    justify-content: center;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: #f5f5f5;
+}
+
+.loading-container-justify {
+    align-items: center;
+}
+
+.summary-text {
+    font-size: 1.0em;
+    line-height: 1.6;
+    color: #333;
+}
+
+.context-menu {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    z-index: 100;
+}
+
+.theses-card {
+    margin-bottom: -12px;
+    font-size: 14px;
+}
+
+.theses-card-button {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0 !important;
+    margin-right: 1vw !important;
+}
+
+.theses-gradient-line {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(to bottom, rgb(230, 0, 255), rgb(207, 207, 0));
+}
+
+@media (prefers-color-scheme: dark) {
+    ion-spinner {
+        color: purple;
+    }
+}
+
+.summary-text {
+    user-select: text;
+}
