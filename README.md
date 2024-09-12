@@ -1,7 +1,11 @@
 # AwareTeam. АГЕНТ.
 
-Веб-приложение, помогающее работать с научными статьями.
+Веб-приложение, помогающее исследователям работать с научными статьями.
 Разработано командой **AwareTeam** в рамках хакатона [Deephack.Agents](https://agents.deephack.me/)
+
+Стек технологий: 
+- backend: python, fast api, gigachain (langchain), gigachat
+- frontend: java script, ionic, vue
 
 ### [Презентация](./presentation.pdf)
 
