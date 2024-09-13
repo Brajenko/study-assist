@@ -14,7 +14,7 @@
 ### Docker
 
 ```bash
-git clone https://gitverse.ru/sc/999/DeepHack-Fullstack.git
+git clone https://github.com/Brajenko/study-assist
 cat > .env << EOL
 GIGACHAT="<ваш токен>"
 SCOPE="<ваш scope>"
@@ -26,7 +26,7 @@ docker compose up
 ### Manual
 
 ```bash
-git clone https://gitverse.ru/sc/999/DeepHack-Fullstack.git
+git clone https://github.com/Brajenko/study-assist
 ```
 
 Backend
